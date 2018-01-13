@@ -5,8 +5,13 @@ You can use the [editor on GitHub](https://github.com/honeycombhk/honeycombhk.gi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-# Markdown with one #
-## Markdown with two##
+# Markdown with one
+## Markdown with two
+1.Number
+2. number
+**BOLD**
+_Italic_
+`code`
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
