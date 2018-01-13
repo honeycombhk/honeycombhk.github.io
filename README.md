@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 # Markdown with one
 ## Markdown with two
-1.Number
+1. Number
 2. number
 **BOLD**
 _Italic_
